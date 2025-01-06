@@ -38,5 +38,6 @@ If Directory isn't given, it'll download the comics in the same location the scr
 
 
 ## Development Process of the File
-The file, "<code>ObsidianNote.md</code>", is where the script was originally worked on, 
+The file, [ObsidianNote.md](ObsidianNote.md),
+is where the script was originally worked on, 
 along side where the script's structure and planning was done.   
